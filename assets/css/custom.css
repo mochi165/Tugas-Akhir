@@ -1,0 +1,12 @@
+
+#add {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 12px;
+    right: 68px;
+    font-size: 20pt;
+    border-radius: 50px;
+    z-index: 99;
+}
+#map { ; top: 0; bottom: 0; left: 0; right: 0; height: 500px; }
