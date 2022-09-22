@@ -10,3 +10,5 @@ tugas akhir | Sistem informasi geografis pemetaan area rawan bencana dan penentu
         - marker-cluster
 
 *minus fontawesome for design*
+
+for update script. contact --> Restu Fatwian | cece.restu@gmail.com
